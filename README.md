@@ -48,7 +48,7 @@ Hi, I'm **Janco van Heerden**! I'm an IT professional with a focus on software d
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Voltexs&show_icons=true&hide_title=true&hide=prs)
 
 ---
 

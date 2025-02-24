@@ -32,7 +32,7 @@ Hi, I'm **Janco van Heerden**! I'm an IT professional with a focus on software d
 ## Certifications
 
 - 🎓 **Microsoft Azure Data Fundamentals (DP-900)**
-- 🎓 **Microsoft Azure Fundamentals (AZ-900)**
+- 🎓 **4IR Work Readyness Certification**
 - 🎓 **CompTIA Network+**
 - 🎓 **CTU IT Specialist Certifications (Python, HTML & CSS, JavaScript)**
 

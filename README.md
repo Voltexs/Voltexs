@@ -46,12 +46,6 @@ Hi, I'm **Janco van Heerden**! I'm an IT professional with a focus on software d
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Voltexs&show_icons=true&hide_title=true&hide=prs)
-
----
-
 ## Let's Connect!
 
 I'm always open to discussing new projects, learning opportunities, and technology. Feel free to explore my repositories, open an issue, or send me a message.
